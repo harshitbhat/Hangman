@@ -4,7 +4,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  background: url('https://images.unsplash.com/photo-1472289065668-ce650ac443d2');
+  background: url('./background.svg');
   background-position: center center;
   background-size: cover;
 }
