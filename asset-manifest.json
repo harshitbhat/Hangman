@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Hangman/static/css/main.18413cac.chunk.css",
+    "main.css": "/Hangman/static/css/main.09761c40.chunk.css",
     "main.js": "/Hangman/static/js/main.879cbdd4.chunk.js",
     "main.js.map": "/Hangman/static/js/main.879cbdd4.chunk.js.map",
     "runtime-main.js": "/Hangman/static/js/runtime-main.01c21a05.js",
@@ -10,7 +10,7 @@
     "static/js/3.d272c2d4.chunk.js": "/Hangman/static/js/3.d272c2d4.chunk.js",
     "static/js/3.d272c2d4.chunk.js.map": "/Hangman/static/js/3.d272c2d4.chunk.js.map",
     "index.html": "/Hangman/index.html",
-    "static/css/main.18413cac.chunk.css.map": "/Hangman/static/css/main.18413cac.chunk.css.map",
+    "static/css/main.09761c40.chunk.css.map": "/Hangman/static/css/main.09761c40.chunk.css.map",
     "static/js/2.182f3218.chunk.js.LICENSE.txt": "/Hangman/static/js/2.182f3218.chunk.js.LICENSE.txt",
     "static/media/0.72059a7f.jpg": "/Hangman/static/media/0.72059a7f.jpg",
     "static/media/1.9a23caa6.jpg": "/Hangman/static/media/1.9a23caa6.jpg",
@@ -18,12 +18,13 @@
     "static/media/3.0db4986f.jpg": "/Hangman/static/media/3.0db4986f.jpg",
     "static/media/4.b272e7f1.jpg": "/Hangman/static/media/4.b272e7f1.jpg",
     "static/media/5.bb0f0ce1.jpg": "/Hangman/static/media/5.bb0f0ce1.jpg",
-    "static/media/6.33ea7012.jpg": "/Hangman/static/media/6.33ea7012.jpg"
+    "static/media/6.33ea7012.jpg": "/Hangman/static/media/6.33ea7012.jpg",
+    "static/media/App.css": "/Hangman/static/media/background.979850ed.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.01c21a05.js",
     "static/js/2.182f3218.chunk.js",
-    "static/css/main.18413cac.chunk.css",
+    "static/css/main.09761c40.chunk.css",
     "static/js/main.879cbdd4.chunk.js"
   ]
 }
